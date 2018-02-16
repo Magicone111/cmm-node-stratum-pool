@@ -1,0 +1,1 @@
+# cmm-node-stratum-pool
